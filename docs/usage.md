@@ -5,9 +5,9 @@
 You can import the library in your JavaScript files as follows:
 
 ```javascript
-const stringUtils = require('str-utils');
+const stringUtils = require('@simongrasinovski/str-utils');
 // or, if you're using ES Modules
-import * as stringUtils from 'str-utils';
+import * as stringUtils from '@simongrasinovski/str-utils';
 ```
 
 ## Available Functions
