@@ -1,7 +1,7 @@
 # Installation
 
-You can install `string-utils` via npm:
+You can install `str-utils` via npm:
 
 ```bash
-npm install string-utils
+npm install str-utils
 ```
