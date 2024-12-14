@@ -1,5 +1,5 @@
 {
-  "name": "str-utils",
+  "name": "@simongrasinovski/str-utils",
   "version": "1.0.0",
   "description": "A lightweight utility library for effortless string manipulation. Simplify common tasks like case validation, conversion and formatting with easy-to-use functions that enhance your JavaScript applications",
   "main": "dist/index.js",
