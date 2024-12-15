@@ -4,8 +4,8 @@ A lightweight utility library for effortless string manipulation. Simplify commo
 
 ## Table of Contents
 
-- [Installation](docs/installation.md)
-- [Usage](docs/usage.md)
-- [API](docs/api.md)
-- [Contributing](docs/contributing.md)
-- [Contact](docs/contact.md)
+- [Installation](https://github.com/simonGrasinovski/str-utils/blob/master/docs/installation.md)
+- [Usage](https://github.com/simonGrasinovski/str-utils/blob/master/docs/usage.md)
+- [API](https://github.com/simonGrasinovski/str-utils/blob/master/docs/api.md)
+- [Contributing](https://github.com/simonGrasinovski/str-utils/blob/master/docs/contributing.md)
+- [Contact](https://github.com/simonGrasinovski/str-utils/blob/master/docs/contact.md)
